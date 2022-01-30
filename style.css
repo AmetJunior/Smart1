@@ -1,0 +1,67 @@
+
+.body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+/*  header
+===== */
+
+.background {
+    position: absolute;
+    width: 100%;
+    background-color: #f5f5f5;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    height: 920px; /*высота*/
+}
+
+.header__nav {
+    display: flex;
+}
+
+
+.border__smart {
+    display: flex;
+    margin-top: 80px;
+   
+  
+    display: block;
+    font-weight: 500;
+    font-size: 37px;
+    font-family: 'Open Sans', sans-serif;
+    
+
+}
+
+p:first-letter {
+    color: red; /* Красный цвет первой буквы */
+}
+
+.menu {
+    margin-left: auto;
+    margin-top: 100px;
+    font-size: 27px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.container {
+    width: 100%; /* ширина */
+    max-width: 1270px;
+    padding: 0 15px;
+    margin: 0 auto; /* это отступ */
+
+}
+
+.subtitle {
+    text-align: center;
+    margin-top: 350px;
+}
+
+.title {
+    margin-top: 280px;
+}
+
