@@ -86,7 +86,7 @@
     position: relative;
     margin-top: 920px;
     width: 100%;
-    max-width: 1440px;
+    
     height: 770px;
 }
 
@@ -125,3 +125,9 @@
 
 }
 
+
+.work_icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
