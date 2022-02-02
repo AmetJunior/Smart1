@@ -7,7 +7,6 @@
     max-width: 1170px;
     padding: 0 15px;
     margin: 0 auto; /* это отступ */;
-    
 }
 
 .header {
@@ -83,6 +82,7 @@
 =========*/
 .working {
     display: flex;
+    justify-content: center;
     position: relative;
     margin-top: 920px;
     width: 100%;
@@ -127,7 +127,15 @@
 
 
 .work_icon {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-right: 20px;
 }
+
+.block__icon {
+    margin-right: 30px;
+}
+
+
