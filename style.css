@@ -1,5 +1,6 @@
 .body {
     font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans Semibold', arial;
 }
 
 .container {
@@ -53,8 +54,6 @@
 
 
 .intro__subtitle {
-    
-    
     font-family: 'Open Sans Semibold', arial;
     font-weight: 500;
     text-align: center;
@@ -85,6 +84,7 @@
     justify-content: center;
     position: relative;
     margin-top: 920px;
+    
     width: 100%;
     
     height: 770px;
@@ -93,8 +93,10 @@
 .block__working {
     margin-top: 140px;
     display: block;
+    
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 100px;
     width: 770px;
 }
 
@@ -122,6 +124,7 @@
      font-size: 16px;
      font-family: 'Open Sans', sans-serif;
      margin-top: 10px;
+     margin-bottom: 20px;
 
 }
 
@@ -135,7 +138,26 @@
 }
 
 .block__icon {
+
+    
     margin-right: 30px;
 }
 
+.rounded {
+    position: absolute;
+    padding-top: 230px;
+    margin-left: 5px
+}
 
+.square_icon {
+    font-family: 'Open Sans Semibold', arial;
+    
+}
+
+.text_square {
+    position: absolute;
+    text-align: center;
+    
+    font-family: 'Open Sans Semibold', arial;
+
+}
