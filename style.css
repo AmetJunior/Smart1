@@ -344,3 +344,33 @@
     text-decoration: none; 
 }
 
+.watch {
+    position: absolute;
+    margin-left: 800px;
+    margin-top: -50px;
+}
+
+.services__icon {
+    position: absolute;
+    margin-top: 355px;
+}
+
+.services__icon2 {
+    position: absolute;
+    margin-top: 485px;
+    margin-left: 30px;
+}
+
+.services__icon3 {
+    position: absolute;
+    margin-top: 585px;
+    margin-left: 30px;
+}
+
+.services__icon4 {
+    position: absolute;
+    margin-top: 685px;
+    margin-left: 30px;
+}
+
+
